@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <rect width="100%" height="100%" fill="#f7fff7"/>
+  <g fill="#7aa67a"><path d="M200 500c60-160 240-160 300 0z"/></g>
+  <text x="350" y="440" font-size="48" text-anchor="middle" fill="#fff" font-family="Segoe UI">HB</text>
+</svg>
