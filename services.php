@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>Services & Treatments — Shanti Ayurveda Clinic</title>
+  <title>Services & Treatments — Sikhar Ayurveda Clinic</title>
   <link rel="stylesheet" href="css/style.css">
   <meta name="description" content="Our services including Panchakarma, Detox Packages, Consultations, Yoga Therapy and Herbal Remedies">
 </head>
@@ -104,7 +104,7 @@
   <footer class="footer">
     <div class="footer-content">
       <div class="footer-bottom">
-        <p>© <?php echo date('Y'); ?> Shanti Ayurveda Clinic. All rights reserved.</p>
+        <p>© <?php echo date('Y'); ?> Sikhar Ayurveda Clinic. All rights reserved.</p>
       </div>
     </div>
   </footer>
@@ -117,7 +117,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>Services & Treatments — Shanti Ayurveda Clinic</title>
+  <title>Services & Treatments — Sikhar Ayurveda Clinic</title>
   <link rel="stylesheet" href="css/style.css">
   <meta name="description" content="Our services including Panchakarma, Detox Packages, Consultations, Yoga Therapy and Herbal Remedies">
 </head>
@@ -167,7 +167,7 @@
   <footer class="footer">
     <div class="footer-content">
       <div class="footer-bottom">
-        <p>© <?php echo date('Y'); ?> Shanti Ayurveda Clinic. All rights reserved.</p>
+        <p>© <?php echo date('Y'); ?> Sikhar Ayurveda Clinic. All rights reserved.</p>
       </div>
     </div>
   </footer>

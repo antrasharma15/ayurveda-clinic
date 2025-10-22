@@ -3,9 +3,9 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>Shanti Ayurveda Clinic - Authentic Ayurvedic Healing</title>
+  <title>sikhar Ayurveda Clinic - Authentic Ayurvedic Healing</title>
   <link rel="stylesheet" href="css/style.css">
-  <meta name="description" content="Shanti Ayurveda Clinic - traditional Ayurvedic care, Panchakarma, personalized treatments and holistic healing.">
+  <meta name="description" content="sikhar Ayurveda Clinic - traditional Ayurvedic care, Panchakarma, personalized treatments and holistic healing.">
 </head>
 <body>
   <a href="#main-content" class="skip-link">Skip to main content</a>
@@ -115,7 +115,7 @@
     <section class="section-wrapper">
       <div class="content-wrapper">
         <h2>Our Comprehensive Healing Approach</h2>
-        <p class="muted">At Shanti Ayurveda Clinic, we believe true healing addresses the root cause, not just symptoms. Our time-tested methodology combines ancient Ayurvedic wisdom with modern scientific understanding to create sustainable wellness solutions. Each treatment plan is carefully crafted based on your unique constitution (Prakriti), current imbalances (Vikriti), and individual lifestyle needs.</p>
+        <p class="muted">At sikhar Ayurveda Clinic, we believe true healing addresses the root cause, not just symptoms. Our time-tested methodology combines ancient Ayurvedic wisdom with modern scientific understanding to create sustainable wellness solutions. Each treatment plan is carefully crafted based on your unique constitution (Prakriti), current imbalances (Vikriti), and individual lifestyle needs.</p>
         <div class="grid">
           <div class="card">
             <h3>🔍 Deep Assessment & Diagnosis</h3>
@@ -206,7 +206,7 @@
         <h2>Start Your Wellness Journey Today</h2>
         <p class="muted">Ready to experience the transformative power of authentic Ayurveda? Book your comprehensive consultation today and take the first step towards optimal health, vitality, and balance. Our team is here to guide you on your personalized healing journey.</p>
         <div style="margin-top:32px">
-          <a class="primary-cta" href="mailto:info@shantiayurveda.example?subject=Appointment%20Request&body=Hello, I would like to schedule a consultation. Please let me know your available times.">📧 Request Appointment</a>
+          <a class="primary-cta" href="mailto:info@sikharayurveda.example?subject=Appointment%20Request&body=Hello, I would like to schedule a consultation. Please let me know your available times.">📧 Request Appointment</a>
           <a class="secondary-cta" href="tel:+911234567890">📞 Call Now</a>
         </div>
         <div style="margin-top:32px; max-width:600px; margin-left:auto; margin-right:auto;">
@@ -233,11 +233,11 @@
       <div class="footer-grid">
         <div class="footer-section">
           <h4>🏥 Clinic Information</h4>
-          <p>Shanti Ayurveda Clinic</p>
+          <p>sikhar Ayurveda Clinic</p>
           <p>123 Wellness Street, Peaceful Gardens</p>
           <p>Health City, State 123456</p>
           <a href="tel:+911234567890">📞 +91 12345 67890</a>
-          <a href="mailto:info@shantiayurveda.com">✉️ info@shantiayurveda.com</a>
+          <a href="mailto:info@sikharayurveda.com">✉️ info@sikharayurveda.com</a>
         </div>
         <div class="footer-section">
           <h4>🕐 Operating Hours</h4>
@@ -266,7 +266,7 @@
         </div>
       </div>
       <div class="footer-bottom">
-        <p>© <?php echo date('Y'); ?> Shanti Ayurveda Clinic. All rights reserved. | <a href="#" style="color:var(--accent-light);">Privacy Policy</a> • <a href="#" style="color:var(--accent-light);">Terms of Service</a> • <a href="#" style="color:var(--accent-light);">Medical Disclaimer</a></p>
+        <p>© <?php echo date('Y'); ?> Sikhar Ayurveda Clinic. All rights reserved. | <a href="#" style="color:var(--accent-light);">Privacy Policy</a> • <a href="#" style="color:var(--accent-light);">Terms of Service</a> • <a href="#" style="color:var(--accent-light);">Medical Disclaimer</a></p>
         <p style="margin-top:8px; font-size:12px;">🌿 Authentic Ayurveda • Personalized Care • Lasting Wellness</p>
       </div>
     </div>

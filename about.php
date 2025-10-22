@@ -3,9 +3,9 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>About Shanti Ayurveda Clinic</title>
+  <title>About Sikhar Ayurveda Clinic</title>
   <link rel="stylesheet" href="css/style.css">
-  <meta name="description" content="About Shanti Ayurveda Clinic — our story, mission, vision, values and the team of practitioners.">
+  <meta name="description" content="About Sikhar Ayurveda Clinic — our story, mission, vision, values and the team of practitioners.">
 </head>
 <body>
   <a href="#main-content" class="skip-link">Skip to main content</a>
@@ -14,7 +14,7 @@
   <main id="main-content">
     <section class="about-hero">
       <div class="about-hero-inner">
-        <h1>About Shanti Ayurveda Clinic</h1>
+        <h1>About Sikhar Ayurveda Clinic</h1>
         <p class="muted">Rooted in classical Ayurveda, guided by compassion and modern clarity.</p>
       </div>
     </section>
@@ -25,7 +25,7 @@
         <div class="about-scroll" role="region" aria-label="About content">
           <article class="about-card reveal">
             <h3>Our Story</h3>
-            <p>Shanti Ayurveda Clinic began as a small healing space founded by practitioners devoted to restoring traditional Ayurvedic practice in a supportive, modern setting. What started as a neighborhood consultation room has grown into a warm clinic where families come for deep healing, personalized care, and trustworthy guidance. Over the years, we have combined classical texts, carefully prepared herbal medicines, and hands-on therapies to bring tangible results for people with chronic conditions, stress-related disorders, and those simply seeking a balanced life.</p>
+            <p>Sikhar Ayurveda Clinic began as a small healing space founded by practitioners devoted to restoring traditional Ayurvedic practice in a supportive, modern setting. What started as a neighborhood consultation room has grown into a warm clinic where families come for deep healing, personalized care, and trustworthy guidance. Over the years, we have combined classical texts, carefully prepared herbal medicines, and hands-on therapies to bring tangible results for people with chronic conditions, stress-related disorders, and those simply seeking a balanced life.</p>
           </article>
 
           <article class="about-card reveal">
@@ -67,11 +67,11 @@
       <div class="footer-grid">
         <div class="footer-section">
           <h4>🏥 Clinic Information</h4>
-          <p>Shanti Ayurveda Clinic</p>
+          <p>Sikhar Ayurveda Clinic</p>
           <p>123 Wellness Street, Peaceful Gardens</p>
           <p>Health City, State 123456</p>
           <a href="tel:+911234567890">📞 +91 12345 67890</a>
-          <a href="mailto:info@shantiayurveda.com">✉️ info@shantiayurveda.com</a>
+          <a href="mailto:info@sikharayurveda.com">✉️ info@sikharayurveda.com</a>
         </div>
         <div class="footer-section">
           <h4>🕐 Operating Hours</h4>
@@ -87,7 +87,7 @@
         </div>
       </div>
       <div class="footer-bottom">
-        <p>© <?php echo date('Y'); ?> Shanti Ayurveda Clinic. All rights reserved.</p>
+        <p>© <?php echo date('Y'); ?> Sikhar Ayurveda Clinic. All rights reserved.</p>
       </div>
     </div>
   </footer>

@@ -8,7 +8,7 @@ $main_menus = $conn->query($sql);
         <div class="brand">
             <div class="logo">SA</div>
             <div>
-                <div style="font-weight:800">Shanti Ayurveda Clinic</div>
+                <div style="font-weight:800">Sikhar Ayurveda Clinic</div>
                 <div class="muted" style="font-size:13px">Holistic care • Panchakarma • Natural healing</div>
             </div>
         </div>

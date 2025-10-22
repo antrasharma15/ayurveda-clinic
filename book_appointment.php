@@ -31,7 +31,7 @@ while ($row = $result->fetch_assoc()) {
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>Book Appointment — Shanti Ayurveda Clinic</title>
+  <title>Book Appointment — Sikhar Ayurveda Clinic</title>
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
@@ -75,7 +75,7 @@ while ($row = $result->fetch_assoc()) {
   <footer class="footer">
     <div class="footer-content">
       <div class="footer-bottom">
-        <p>© <?php echo date('Y'); ?> Shanti Ayurveda Clinic. All rights reserved.</p>
+        <p>© <?php echo date('Y'); ?> Sikhar Ayurveda Clinic. All rights reserved.</p>
       </div>
     </div>
   </footer>
